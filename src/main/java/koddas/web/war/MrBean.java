@@ -1,5 +1,5 @@
 package koddas.web.war;
-
+##
 import java.io.Serializable;
 
 /**
